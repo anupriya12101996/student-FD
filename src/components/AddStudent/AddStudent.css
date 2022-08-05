@@ -1,0 +1,14 @@
+.add-holder {display: flex; height: 90vh;}
+.right-holder {flex: 1; display: flex; justify-content: center; align-items: center;}
+.add-card {box-shadow: 0 4px 10px rgba(127, 127, 127, 0.5); width: 30vw;}
+.add-card h1 {margin-bottom: 20px;}
+.input-container {display: flex; justify-content: space-between; width: 100%; align-items: center;}
+.input-container label {width: 40%;}
+.input-container .btn-container {margin-top: 20px; width: 100%; display: flex; justify-content: center;}
+.input-container .btn-container button {width: 30%;}
+select {-webkit-appearance: none;-moz-appearance: none;text-indent: 1px;text-overflow: '';}
+.status-container {display: flex; justify-content: space-between; align-items: center; width: 100%; margin: 10px 0;}
+.status-container p {margin: 0; padding: 0;}
+.radios-value {display: flex; justify-content: space-between; align-items: center; font-size: 14px;}
+.radios-value input {margin-left: 30px;} 
+.radios-value label {margin-left: 10px;}

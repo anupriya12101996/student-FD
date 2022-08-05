@@ -1,0 +1,5 @@
+.sidenave-holder {width: 20%; background-color: #4B4276; height: 100%; padding: 20px 40px;}
+.side-links {display: flex; color: #BDB8D7; font-weight: 200; margin: 30px 0; transition: .4s;}
+.side-links:hover {cursor: pointer; color: white;}
+.side-links i {margin-right: 10px;}
+.fa-caret-down, .fa-caret-up {margin-left: 10px;}

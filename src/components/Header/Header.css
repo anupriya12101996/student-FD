@@ -1,0 +1,12 @@
+.header-holder {background-color: #830606; padding: 0px 60px; height: 10vh; display: flex; align-items: center; justify-content: space-between;}
+.header-heading {color: white; font-weight: 200; font-size: 22px;}
+.profile-show {height: 70%; display: flex; align-items: center;}
+.profile-show div {height: 100%; display: flex; align-items: center;}
+.profile-show div:hover {cursor: pointer;}
+.notification-holder { margin-right: 20px; position: relative;}
+.notification-holder span {position: absolute; top: -10px; background-color: #4B4276; width: 20px; height: 20px; right: -10px; display: flex; justify-content: center; border-radius: 50px; color: white; font-size: 12px; align-items: center;}
+.notification-holder i {font-size: 20px; color: white; transition: .4s;}
+.notification-holder i:hover {color: #4B4276; cursor: pointer;}
+.profile-image {height: 100%;}
+.profile-show h4 {color: white; font-weight: 200; margin: 0 10px;}
+.fa-chevron-down {color: white;}
